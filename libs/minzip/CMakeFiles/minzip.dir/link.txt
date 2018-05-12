@@ -1,0 +1,2 @@
+/usr/bin/ar qc libminzip.a  CMakeFiles/minzip.dir/Hash.c.o CMakeFiles/minzip.dir/SysUtil.c.o CMakeFiles/minzip.dir/DirUtil.c.o CMakeFiles/minzip.dir/Inlines.c.o CMakeFiles/minzip.dir/Zip.c.o
+/usr/bin/ranlib libminzip.a

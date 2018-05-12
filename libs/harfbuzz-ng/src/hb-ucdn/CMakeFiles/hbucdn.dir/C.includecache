@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/predator/Documents/Project/temp/libaroma/libs/harfbuzz-ng/src/hb-ucdn/ucdn.c
+stdio.h
+-
+stdlib.h
+-
+ucdn.h
+/home/predator/Documents/Project/temp/libaroma/libs/harfbuzz-ng/src/hb-ucdn/ucdn.h
+unicodedata_db.h
+/home/predator/Documents/Project/temp/libaroma/libs/harfbuzz-ng/src/hb-ucdn/unicodedata_db.h
+
+/home/predator/Documents/Project/temp/libaroma/libs/harfbuzz-ng/src/hb-ucdn/ucdn.h
+inttypes.h
+-
+sys/inttypes.h
+-
+stdint.h
+-
+
+/home/predator/Documents/Project/temp/libaroma/libs/harfbuzz-ng/src/hb-ucdn/unicodedata_db.h
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/predator/Documents/Project/temp/libaroma/src/aroma/arch/x86_64/android_memset16.S
+cache.h
+/home/predator/Documents/Project/temp/libaroma/src/aroma/arch/x86_64/cache.h
+
+/home/predator/Documents/Project/temp/libaroma/src/aroma/arch/x86_64/android_memset32.S
+cache.h
+/home/predator/Documents/Project/temp/libaroma/src/aroma/arch/x86_64/cache.h
+
+/home/predator/Documents/Project/temp/libaroma/src/aroma/arch/x86_64/cache.h
+

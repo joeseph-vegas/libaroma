@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhbucdn.a  CMakeFiles/hbucdn.dir/ucdn.c.o
+/usr/bin/ranlib libhbucdn.a
